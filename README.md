@@ -1,64 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Glor1x
-===============================================================================================================================
+# Hey, I'm Glor1x 👋
 
-Hey, I'm Glor1x 👋
+> 17 y/o full-stack developer building websites, bots, backend services, and project infrastructure.
 
-I'm a 17 y/o developer focused on web development, bots, and backend stuff.
-Started my journey with Discord bots, then got invited to work on the website for the LEA project: https://lea-script.space/
-At first, the website was built with vanilla HTML/CSS/JS, but later I rewrote it using React.
-I mainly work with:
-- JavaScript
-- React
-- Node.js (Express)
-- Python
-- TailwindCSS
-- Lua
-- a bit of Rust
+---
 
-I enjoy both frontend and backend development, especially building full projects from scratch.
-One of the biggest things I'm proud of is helping build the LEA infrastructure (Law Enforcer Assistant for Arizona RP SAMP), including the website and hosting setup together with my friend and AI tools.
+I started my journey with Discord bots, then got invited to work on the website for the LEA project: https://lea-script.space/. The first version was built with vanilla HTML/CSS/JS, and later fully rewritten using React.
 
-## Tech Stack
-Frontend:
-- React
-- JavaScript
-- HTML
-- CSS
-- TailwindCSS
-  
-Backend:
-- Node.js
-- Express
-- Python
-  
-Other:
-- Lua
-- Rust (learning when needed)
+I mainly work with React + Node.js (Express), but also use Python, Lua, TailwindCSS, and occasionally Rust when needed. I enjoy both frontend and backend development - especially building complete systems from scratch, from UI to infrastructure.
 
-## Projects
+One of the projects I'm most proud of is helping build the LEA infrastructure (Law Enforcer Assistant for Arizona RP SAMP), including the website and hosting setup together with my friend and AI tools.
+I’m also open to both contributing to other projects and building my own.
 
-- https://lea-script.space/
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [lea-script.space](https://lea-script.space/) | Website and infrastructure for LEA project | React · Node.js |
+| [студия3кита.рф](https://студия3кита.рф) | Website for Studio 3 Kита | React · Tailwind |
 
 More repositories and source code will be published over time.
 
-## Currently
-- improving my fullstack development skills
-- learning more while building real projects
-- interested in freelance work and collaboration
-- open to contributing to other projects
+---
 
-## Fun Fact
-I started with Discord bots and somehow ended up building websites, backend services, and infrastructure 🙂
+## 🛠 Stack
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Socials
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/Glor1x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/glor1xx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+### Other
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Glor1x"><img src="https://github-readme-stats.vercel.app/api?username=Glor1x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Glor1x's GitHub stats" /></a>
+## 📚 Currently
+
+- improving my full-stack development skills
+- building real-world projects
+- learning Rust when needed
+- interested in freelance work
+- open to collaborations and open-source projects
+
+---
+
+## 📬 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/glor1x)
+
+### Freelance
+
+Open to freelance work and collaborations.
+
+- For clients from Russia - ready to work with contracts.
+- International work - 100% prepayment.
+
+---
+
+## ⚡ Fun Fact
+
+Started with Discord bots and somehow ended up building websites, backend services, and infrastructure 🙂
