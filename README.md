@@ -73,14 +73,11 @@ My coding journey started with Discord bots, which quickly evolved into a passio
 ### 💼 Ready for Work
 I'm open to freelance projects and collaborations:
 - **Russian clients:** work under a standard service contract.
-- **International clients:** 100% upfront payment required.
+- **International clients:** prepaid projects.
 
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
-
 <img src="https://komarev.com/ghpvc/?username=Glor1x&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
